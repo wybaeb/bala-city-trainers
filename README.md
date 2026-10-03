@@ -1,2 +1,3 @@
-# bala-city-trainers
-Bala City interactive teacher trainers
+# Bala City — интерактивные тренажёры
+
+https://wybaeb.github.io/bala-city-trainers/

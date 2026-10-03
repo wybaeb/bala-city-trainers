@@ -1,0 +1,15 @@
+{
+  "schema": "slide-hub/1",
+  "id": "bala_city_music",
+  "title": "Bala City · Музыка",
+  "decks_dir": "decks",
+  "mounts": {
+    "assets": "assets",
+    "illustrations": "illustrations"
+  },
+  "brand": {
+    "accent": "#fcc900",
+    "bg": "#f6f7f2"
+  },
+  "writable": false
+}
